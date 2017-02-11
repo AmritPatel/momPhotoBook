@@ -1,0 +1,33 @@
+# The 2000s
+
+```{r, echo=F}
+knitr::include_graphics("images/00s/AA007-3.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/00s/AA003-3.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/00s/AA012-4.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/00s/AB009.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/00s/AA005A.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/00s/AA003-4.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/00s/AA010A.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/00s/AA007.jpg")
+```

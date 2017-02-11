@@ -1,0 +1,13 @@
+---
+title: "A Lifetime of Memories: The Photography of Linda A. Kalpin"
+author: "Amrit D. Patel"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  bookdown::pdf_book: default
+---
+
+# Intro
+
+This is the photography of Linda A. Kalpin.

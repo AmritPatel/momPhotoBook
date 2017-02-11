@@ -1,0 +1,33 @@
+# The 1990s
+
+```{r, echo=F}
+knitr::include_graphics("images/90s/AA003.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/90s/AA009.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/90s/AA021-2.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/90s/AB019.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/90s/AA016.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/90s/AA010.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/90s/AA016-2.jpg")
+```
+
+```{r, echo=F}
+knitr::include_graphics("images/90s/AA023.jpg")
+```
